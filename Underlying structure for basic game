@@ -63,3 +63,4 @@ Decoupling: Minimizing dependencies between different components of the code. Th
 Scalability: Designing the code in a way that allows it to handle increased workload or complexity without requiring significant changes to its underlying structure.
 
 Overall, a well-designed underlying structure in coding helps to improve the readability, maintainability, and extensibility of software systems, ultimately leading to more robust and efficient applications.
+Modularity: Breaking the code into smaller, self-contained modules or functions that perform specific tasks. This promotes code reuse and makes it easier to understand and maintain.
