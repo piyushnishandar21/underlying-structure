@@ -26,6 +26,10 @@ Award points to the player for actions such as passing obstacles, covering a cer
 Display the player's score on the screen.
 Game Over:
 
+Award points to the player for actions such as passing obstacles, covering a certain distance, or collecting power-ups.
+Display the player's score on the screen.
+Game Over:
+
 Determine the conditions for ending the game, such as running out of lives or crashing too many times.
 Display a game over screen with the final score and an option to restart the game or quit.
 Allow the player to restart the game or return to the main menu.
